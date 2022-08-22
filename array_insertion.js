@@ -31,6 +31,8 @@ function insertnewelement() {
     else{
         alert("please enter valid position and valid element as both need to be numeric")
     }
+    // splice method can do this in single line
+    // items.splice(Position,0,newEl)
    console.warn(items)
 
 }
